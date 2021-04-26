@@ -1,2 +1,6 @@
 Welcome to git
 
+gIT hub is repository in remote location.
+
+
+
