@@ -7,5 +7,22 @@
 --git commands added in feature branch
 --12:16 PM
 git init
+
+
+
 git add README.md
+
+git add README.md
+
+--git commnds added in feature branch2
+--12:22
+git commit -m "first commit"
+git branch -M main
+
+--end of the doc
+--12:36
+
+--additional changes made at 12:39pm
+
+
 
