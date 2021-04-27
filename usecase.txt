@@ -1,0 +1,1 @@
+--usecase document created to follow the steps for merge and rebase process
